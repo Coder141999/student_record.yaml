@@ -1,0 +1,18 @@
+student_record:
+  name:
+    family_name: "Gulati"
+    given_name: "Surbhi"
+    Student_ID: "222305873"
+  enrolled_units:
+    - unit_code: "Sit_727"
+      unit_name: "Cloud Automation Technologies"
+      mode_of_Class: "on campus"
+  timetable:
+    - activity_type: "Lab"
+      location: "Burwood"
+      day: "wednesday"
+      start_time: "11:00 AM"
+      end_time: "01:00 PM"
+    - activity_type: "Master In IT"
+      location: "Burwood"
+      
